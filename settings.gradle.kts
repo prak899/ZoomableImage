@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestingNodes"
 include(":app")
- 
+include(":zoomprakash")
